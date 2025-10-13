@@ -6,8 +6,10 @@ export default function ResearchPage() {
       <h1 className="text-4xl font-serif text-biolume">Research</h1>
 
       <p className="text-lg text-foam/90 leading-relaxed">
-        Im drawn to systems at the intersection of nature, data, and theory. My research spans physical oceanography, Arctic ecosystems, and sustainability studies. Im especially interested in how glacial melt influences fjord environments and how movement, matter, and life interconnect.
+        My research reflects the depth of my scientific expertise — spanning physical oceanography, Arctic ecosystems, mathematical physics, and experimental methods. I&rsquo;m especially interested in how glacial melt influences fjord environments and how movement, matter, and life interconnect in polar regions.
       </p>
+
+      <h2 className="text-2xl font-serif text-jellyskin">Research Projects</h2>
 
       <section className="space-y-8">
             <Link
