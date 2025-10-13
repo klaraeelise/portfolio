@@ -30,8 +30,8 @@ export default function ProjectsPage() {
     <main className="max-w-4xl mx-auto px-6 py-16 text-foam space-y-12">
       <h1 className="text-4xl font-serif text-biolume">Projects</h1>
       <p className="text-lg text-foam/90">
-        Here’s a glimpse into some things I’ve been building — from language tools to monitoring dashboards.
-        Some are still in progress, others will be expanded with demos and write-ups soon.
+        Here I apply my scientific and analytical background through code. These projects span language learning tools, 
+        data visualization, monitoring systems, and more — each connecting technical skills with curiosity and problem-solving.
       </p>
 
       <section className="space-y-6">
